@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\bin\Debug\netcoreapp3.1\12.21.2022.exe
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\bin\Debug\netcoreapp3.1\12.21.2022.deps.json
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\bin\Debug\netcoreapp3.1\12.21.2022.runtimeconfig.json
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\bin\Debug\netcoreapp3.1\12.21.2022.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\bin\Debug\netcoreapp3.1\12.21.2022.dll
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\bin\Debug\netcoreapp3.1\12.21.2022.pdb
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.dll
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.pdb
+C:\Users\SONY\Desktop\Lesson\12.21.2022\12.21.2022\obj\Debug\netcoreapp3.1\12.21.2022.genruntimeconfig.cache
