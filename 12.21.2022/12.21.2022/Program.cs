@@ -70,10 +70,10 @@ namespace _12._21._2022
 
                         }
                     }
-                    catch (System.FormatException)
+                    catch (System.FormatException e)
                     {
                         priceExcp = true;
-                        Console.WriteLine("Yalniz REQEM daxil oluna biler! ");
+                        Console.WriteLine("Yalniz REQEM daxil oluna biler! " + e.Message);
                         Console.WriteLine("");
                     }
                 } while (priceExcp == true);
@@ -92,10 +92,10 @@ namespace _12._21._2022
                             Console.WriteLine("");
                         }
                     }
-                    catch (System.FormatException)
-                    {
+                    catch (System.FormatException e)
+                    { 
                         ramExcp = true;
-                        Console.WriteLine("Yalniz REQEM daxil oluna biler! ");
+                        Console.WriteLine("Yalniz REQEM daxil oluna biler! "+ e.Message);
                         Console.WriteLine("");
                     }
                 } while (ramExcp == true);
@@ -112,7 +112,6 @@ namespace _12._21._2022
                 string search;
                 do
                 {
-
                     Console.Write("Axtaris etmek istediyiniz notebookun adini daxil edin: ");
                     search = Console.ReadLine();
 

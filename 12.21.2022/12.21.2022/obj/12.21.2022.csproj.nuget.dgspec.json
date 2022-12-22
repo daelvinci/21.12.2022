@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SONY\\Desktop\\Lesson\\12.21.2022\\12.21.2022\\12.21.2022.csproj": {}
+    "C:\\Users\\SONY\\Desktop\\21.12.2022\\12.21.2022\\12.21.2022\\12.21.2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SONY\\Desktop\\Lesson\\12.21.2022\\12.21.2022\\12.21.2022.csproj": {
+    "C:\\Users\\SONY\\Desktop\\21.12.2022\\12.21.2022\\12.21.2022\\12.21.2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SONY\\Desktop\\Lesson\\12.21.2022\\12.21.2022\\12.21.2022.csproj",
+        "projectUniqueName": "C:\\Users\\SONY\\Desktop\\21.12.2022\\12.21.2022\\12.21.2022\\12.21.2022.csproj",
         "projectName": "12.21.2022",
-        "projectPath": "C:\\Users\\SONY\\Desktop\\Lesson\\12.21.2022\\12.21.2022\\12.21.2022.csproj",
+        "projectPath": "C:\\Users\\SONY\\Desktop\\21.12.2022\\12.21.2022\\12.21.2022\\12.21.2022.csproj",
         "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SONY\\Desktop\\Lesson\\12.21.2022\\12.21.2022\\obj\\",
+        "outputPath": "C:\\Users\\SONY\\Desktop\\21.12.2022\\12.21.2022\\12.21.2022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
